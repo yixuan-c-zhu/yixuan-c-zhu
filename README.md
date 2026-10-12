@@ -5,7 +5,7 @@ I build and evaluate LLM systems: retrieval pipelines, fine-tuning, multi-agent 
 
 **Open to full-time AI / LLM engineering roles starting January 2027.** U.S. permanent resident, no sponsorship needed.
 
-[Website](https://YOUR-USERNAME.github.io) · [LinkedIn](https://www.linkedin.com/in/yixuan-zhu-a79a3b346/) · [Resume](https://YOUR-USERNAME.github.io/resume.pdf) · yzhu1458@usc.edu
+[Website](https://yixuan-c-zhu.github.io) · [LinkedIn](https://www.linkedin.com/in/yixuan-zhu-a79a3b346/) · [Resume](https://yixuan-c-zhu.github.io/resume.pdf) · yzhu1458@usc.edu
 
 ---
 
